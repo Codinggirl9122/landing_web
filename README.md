@@ -1,10 +1,10 @@
 ### Instructions
 - Clone the repository 
 ```
-https://github.com/um500/landing_page.git
+[https://github.com/Codinggirl9122/landing_web.git]
 ```
 
-### Demo https://landing-page-xi-sooty.vercel.app/
+### Demo https://landing-web-sage.vercel.app/
 
 - Open index.html in web browser OR start a live server on localhost
 
